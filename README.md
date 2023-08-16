@@ -56,7 +56,8 @@ To configure this option:
 
 ## License
 
-This module is licensed under the GNU General Public License (GPL).
+This project is licensed under the [GNU General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html). You can find more information in the [LICENSE](LICENSE) file.
+
 
 For more information about SpiderFoot, visit [SpiderFoot's GitHub Repository](https://github.com/smicallef/spiderfoot).
 
